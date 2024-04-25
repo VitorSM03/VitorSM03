@@ -5,6 +5,7 @@
 
 
 <!---
-VitorSM03/VitorSM03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+mudar a logo p basket
 --->
+- ![Basketball is my jam](https://img.shields.io/badge/My%20jam-Basketball-critical?style=flat-square&logo=nba&logoColor=white)
+
