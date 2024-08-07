@@ -1,6 +1,7 @@
 - Hi, There! I'm Vitor <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-- 🔥 I'm currently learning: ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python), ![Html]( https://img.shields.io/badge/logo-html-blue?logo=html)
+- 🔥 I'm currently learning: ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python), ![Html](https://img.shields.io/badge/logo-html-blue?logo=html), ![Teste](![image](https://github.com/user-attachments/assets/832d8172-4ef5-4ab8-b25a-270d7bf3c3fa)
+)
 - I'm used to use  ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Windows) and ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 - 📫 How to reach me: vitor.simoes.vs.3@gmail.com
 
